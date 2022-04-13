@@ -1,38 +1,83 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noticia+Text:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #1C3142;
+    font-family: 'Open Sans', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+p{
+	padding: 5px;
+	font-size: 13px;
+	color: #8293A1;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.title{
+	font-size: 55px;
+    letter-spacing: 0.2em;
+	font-style: none;
+	font-family: 'Noticia Text', serif; 
+	color: #8293A1;
+	text-align: center;
+    text-transform: uppercase;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.header1{
+	font-family: 'Noticia Text', serif;
+	font-size: 70px;
+	color: white;
+    text-transform: capitalize;
+	font-weight: bold;
+	margin-top:0px;
+	display: inline-block;
 }
 
-.App-link {
-  color: #61dafb;
+.header2{
+	font-family: 'Noticia Text', serif;
+	font-size: 30px;
+	color: #D2D4D1;
+	font-weight: bold;
+	margin-top:0px;
+	display: inline-block;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.beautify-h2{
+	font-family: 'Noticia Text', serif;
+	color: #50C4ED;
+	font-weight: bold;
+	margin-top:0px;
+
+}
+
+.header3{
+	font-family:'Open Sans', sans-serif;
+	font-style: italic;
+	font-size: 25px;
+	color: #8293A1;
+	padding-left: -5px;
+	margin-bottom:0;
+	display: inline-block;
+
+}
+
+.socials a{
+	display: inline-block;
+    text-decoration: none;
+	height: 40px;
+	width: 40px;
+	background-color: lightgrey;
+	margin: 0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: black;
+	transition: all 0.5s ease;
+}
+
+.socials a:hover{
+	transform:scale(1.2);
+
 }
