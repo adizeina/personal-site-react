@@ -1,0 +1,62 @@
+{
+    "experiences": [
+    {
+        "_id":"exp1", 
+        "company": "Rogers Communications", 
+        "job-title": "New Grad Developer",
+        "image":  "././images/exp-img/rogers-logo.png",
+        "date": "May 2022 - Present",
+        "description": "TBD"
+    },
+    {
+        "_id":"exp2", 
+        "company": "IBM", 
+        "job-title": "Technical Writer / Consultant", 
+        "image":  "././images/exp-img/ibm-logo.png",
+        "date": "September 2021 - December 2021",
+        "description": "Drafting business solutions for (2) manual processes and presenting them to executives. Installing status updates for reservations of live environments like ROKS, IBM Cloud, RedHat. Redrafting metrics dashboard process and holding sessions for onboarding. Drafting (3) Onboarding Badges for new IBMers, Business Partners, and Clients. Performing business product documentation audits and working with designers to improve product quality. Writing (8) demo scripts for environments."
+    },
+    {
+        "_id":"exp3", 
+        "company": "The DNA company", 
+        "job-title": "Frontend Developer", 
+        "image":  "././images/exp-img/dna-logo.png",
+        "date": "April 2021 - July 2021",
+        "description": "Building automated responsive reports using company owned website builder similar to Webflow and altering initial design to establish consistency. Learned how to use platform and all classes and began building my first report within the first 4 hours of being hired. Learned how to work in an extremely fast paced environment and ameliorated my time management skills. My completed reports are being used for future report templates."
+    },
+    {
+        "_id":"exp4", 
+        "company": "CASRA Cybersecurity and Beyond", 
+        "job-title": "Wordpress Developer",
+        "image":  "././images/exp-img/casra.png",
+        "date": "March 2021 - June 2021",
+        "description": "Creating the website architecture. Designing and implementing new features and functionalities as per client request. Performing content governance. Ensuring high-performance and availability, and managing all technical aspects of the CMS. Helping formulate an esthetic and responsive design and transforming it into a working theme and plugin." 
+    },
+    {
+        "_id":"exp5", 
+        "company": "Addie Academy", 
+        "job-title": "Wordpress Developer",
+        "image":  "././images/exp-img/addie.png",
+        "date": "November 2020-December 2020",
+        "description": "Meeting with client to discuss website wireframe and functionality. Designing and building the website front-end and back-end including database and server integration. Conducting website performance tests. Troubleshooting content issues. Conducting WordPress training with the client. Monitoring the performance of the live website and performing content governance."
+    },
+    {
+        "_id":"exp6", 
+        "company": "WISC UTM", 
+        "job-title": "Social Media Director", 
+        "image":  "././images/exp-img/wiscutm.png",
+        "date": "September 2019-April 2020",
+        "description": "Notifying followers of all upcoming events related to STEM job opportunities. Changing perception and breaking stereotypes of gender presence in STEM fields. Pitching event ideas to accommodate student body needs (i.e. workshops, seminars)" 
+    }, 
+    {
+        "_id":"exp7", 
+        "company": "ISACA Toronto Chapter", 
+        "job-title": "Social Media Manager", 
+        "image":  "././images/exp-img/isaca.png",
+        "date": "November 2018- Mai 2019",
+        "description": "Managing social media accounts and sharing pertinent articles concerning cybersecurity, IT governance and audit and sharing useful OWASP resources. Increasing student enrollment for cyber certifications given by ISACA by 19% a month.Promoting and attending training events, boot camps related to cloud and cybersecurity and IT. Generated a 25% increase of attendees to events and an average of 42% increase of followers on the social media platforms."
+    }
+
+    ]
+}
+

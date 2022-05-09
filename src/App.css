@@ -81,3 +81,35 @@ p{
 	transform:scale(1.2);
 
 }
+
+
+.img-con img{
+	max-width: 24rem;
+	max-height: 24rem;
+}
+
+/*** DELETE LATER (if not needed) ***/
+.album{
+	width: 100%;
+	display:inline-flex;
+}
+.album img{
+	transition: all 0.3s ease;
+	display: inline-flex;
+	padding: 2%;
+}
+.album img:hover{
+	transform: scale(1.1);
+}
+
+/***  ***/
+.home {
+	display: inline-flex;
+	flex-direction: row;
+}
+
+.intro-container{
+	flex: 1;
+}
+
+

@@ -1,0 +1,46 @@
+{
+    "projects": [
+    {
+        "_id":"p1", 
+        "title": "...", 
+        "image":  "././images/projects-img/...png",
+        "description": "...", 
+        "links-to-project":["link1", "link2", "link3"] 
+    },
+    {
+        "_id":"p2", 
+        "title": "...", 
+        "image":  "././images/projects-img/...png",
+        "description": "...", 
+        "links-to-project":["link1", "link2", "link3"] 
+    }, 
+    {
+        "_id":"p3", 
+        "title": "...", 
+        "image":  "././images/projects-img/...png",
+        "description": "...", 
+        "links-to-project":["link1", "link2", "link3"] 
+    }, 
+    {
+        "_id":"p4", 
+        "title": "...", 
+        "image":  "././images/projects-img/...png",
+        "description": "...", 
+        "links-to-project":["link1", "link2", "link3"] 
+    }, 
+    {
+        "_id":"p5", 
+        "title": "...", 
+        "image":  "././images/projects-img/...png",
+        "description": "...", 
+        "links-to-project":["link1", "link2", "link3"] 
+    }, 
+    {
+        "_id":"p6", 
+        "title": "...", 
+        "image":  "././images/projects-img/...png",
+        "description": "...", 
+        "links-to-project":["link1", "link2", "link3"] 
+    }
+    ]
+}
